@@ -53,7 +53,7 @@ class NetworkDataExtract():
 
 
 if __name__ == "__main__":
-    FILE_PATH="D:\Kishlay\NetworkSecurity\Network_Data\phisingData.csv"
+    FILE_PATH="Network_Data\phisingData.csv"
     DATABASE = "network_security"
     COLLECTION="NetworkData"
     NetworkDataExtract = NetworkDataExtract()
