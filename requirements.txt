@@ -4,6 +4,10 @@ numpy
 pymongo
 pymongo[srv]==3.12
 certifi
-scikit-learn
-pyyaml
+mlflow
+pyaml
+dagshub
+fastapi
+uvicorn
+python-multipart
 ## -e .
